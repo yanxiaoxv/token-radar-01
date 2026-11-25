@@ -1,5 +1,9 @@
 # Token Radar (model radar-2)
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/yanxiaoxv/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/yanxiaoxv/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A pre-token protocol board for the make.fun **token-radar-01** bounty ($1,325 in USDC):
 every protocol in a frozen DefiLlama snapshot that has no token on record, ranked by the
 value a token could plausibly carry — priced the way its own category already trades.
